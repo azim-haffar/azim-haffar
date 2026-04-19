@@ -82,10 +82,20 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azim-haffar&theme=github-dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim-haffar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azim-haffar&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </div>
 
+---
+
+<div align="center">
+
+### 🇩🇪 Actively seeking paid Software Engineering internships in Germany
+**Available:** Summer / Fall 2025 · Relocation ready · B1 German · Visa sponsorship welcome
+
+[![Email Me](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.hafar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+
+</div>
 ---
 
 <div align="center">
