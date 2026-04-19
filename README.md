@@ -100,4 +100,20 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.hafar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azim-haffar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/azim-haffar/azim-haffar/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 </div>
