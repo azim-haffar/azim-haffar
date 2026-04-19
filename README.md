@@ -72,10 +72,10 @@ Currently seeking **paid software engineering internships in Germany** (Berlin Â
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Machine Learning Specialization | Stanford University / Andrew Ng | 2024 |
-| Advanced Learning Algorithms | Stanford University / Andrew Ng | 2024 |
-| Deep Learning with Keras | IBM | 2024 |
-| Machine Learning with Python | IBM | 2024 |
+| Machine Learning Specialization | Stanford University / Andrew Ng | 2026 |
+| Advanced Learning Algorithms | Stanford University / Andrew Ng | 2025 |
+| Deep Learning with Keras | IBM | 2025 |
+| Machine Learning with Python | IBM | 2025 |
 
 ---
 
