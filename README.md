@@ -5,7 +5,7 @@
 **Backend Engineer · ML Systems · Open to Internships in Germany 🇩🇪**
 
 [![Email](https://img.shields.io/badge/azim.haffar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar-6a197a1b4/)
 [![German B1](https://img.shields.io/badge/German-B1_Goethe-black?style=flat-square)](https://www.goethe.de)
 [![Open to Relocate](https://img.shields.io/badge/Open_to_Relocate-Germany-009688?style=flat-square)](mailto:azim.haffar@gmail.com)
 
