@@ -100,18 +100,4 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azim-haffar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/azim-haffar/azim-haffar/output/github-contribution-grid-snake-dark.svg" />
 </div>
