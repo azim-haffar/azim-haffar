@@ -22,7 +22,7 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 - 🎓 B.Sc. Software Engineering — Ostim Technical University (3rd year)
 - 🇩🇪 German: **Goethe B1** · Open to relocate to Germany
 - 🔭 Currently shipping: **[HireLens](https://github.com/azim-haffar/HireLens)** — AI-powered ATS & recruitment engine
-- 📅 Available: **Summer / Fall 2025** · Visa sponsorship welcome
+- 📅 Available: **Summer / Fall 2026** · Visa sponsorship welcome
 
 ---
 
@@ -95,10 +95,12 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 <div align="center">
 
 ### 🇩🇪 Available for paid Software Engineering internships in Germany
-**Summer / Fall 2026 · Relocation ready · B1 German · **
+**Summer / Fall 2026 · Relocation ready · Goethe B1 · Visa sponsorship welcome**
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.hafar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+
+</div>
 
 ---
 
@@ -114,6 +116,4 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/azim-haffar/azim-haffar/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 </div>
