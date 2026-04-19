@@ -95,7 +95,7 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 <div align="center">
 
 ### 🇩🇪 Available for paid Software Engineering internships in Germany
-**Summer / Fall 2025 · Relocation ready · Goethe B1 · Visa sponsorship welcome**
+**Summer / Fall 2026 · Relocation ready · B1 German · **
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.hafar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
