@@ -14,13 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineering student specializing in **Python backends and ML-integrated systems**.
-I build production-ready applications — not toy projects. Currently targeting **paid software engineering internships in Germany** (Berlin · Munich · Hamburg).
+Software engineer focused on **Python backends and ML-integrated systems**.
+I build and ship production-ready applications end-to-end — from API design to deployment.
+Currently seeking **paid software engineering internships in Germany** (Berlin · Munich · Hamburg).
 
-- 🎓 Computer Engineering — Ostim Technical University
+- 🎓 B.Sc. Software Engineering — Ostim Technical University (3rd year)
 - 🇩🇪 German: **Goethe B1** · Open to relocate
 - 🔭 Currently shipping: **[HireLens](https://github.com/azim-haffar/HireLens)** — AI-powered ATS & recruitment engine
-- 📬 Reach me: [azim.hafar@gmail.com](mailto:azim.hafar@gmail.com)
+- 📬 [azim.hafar@gmail.com](mailto:azim.hafar@gmail.com)
 
 ---
 
