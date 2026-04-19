@@ -4,10 +4,10 @@
 
 **Backend Engineer · ML Systems · Open to Internships in Germany 🇩🇪**
 
-[![Email](https://img.shields.io/badge/azim.hafar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.hafar@gmail.com)
+[![Email](https://img.shields.io/badge/azim.haffar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
 [![German B1](https://img.shields.io/badge/German-B1_Goethe-black?style=flat-square)](https://www.goethe.de)
-[![Open to Relocate](https://img.shields.io/badge/Open_to_Relocate-Germany-009688?style=flat-square)](mailto:azim.hafar@gmail.com)
+[![Open to Relocate](https://img.shields.io/badge/Open_to_Relocate-Germany-009688?style=flat-square)](mailto:azim.haffar@gmail.com)
 
 </div>
 
@@ -86,9 +86,7 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 
 | Project | Stack | Status |
 |---|---|---|
-| **HireLens** — AI recruitment screening engine | FastAPI · React · Gemini · Docker | ✅ Live |
-| **ML Inference API** — model serving with versioning | FastAPI · scikit-learn · Docker | 🔨 Building |
-| **Data Pipeline Dashboard** — analytics + PostgreSQL | Python · Streamlit · PostgreSQL | 📋 Planned |
+| **HireLens** — AI recruitment screening engine | FastAPI · React · Gemini · Docker · SQLAlchemy | ✅ Live |
 
 ---
 
@@ -97,7 +95,7 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 ### 🇩🇪 Available for paid Software Engineering internships in Germany
 **Summer / Fall 2026 · Relocation ready · Goethe B1 · Visa sponsorship welcome**
 
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.hafar@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
 
 </div>
