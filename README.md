@@ -88,5 +88,5 @@ I build production-ready applications — not toy projects. Currently targeting 
 ---
 
 <div align="center">
-  <i>Available for internships starting 2025 · Willing to relocate to Germany · Visa sponsorship welcome</i>
+  <i>Available for internships</i>
 </div>
