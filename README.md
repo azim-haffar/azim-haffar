@@ -1,32 +1,34 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/210223851?v=4" width="100px" style="border-radius: 50%;" />
+
 # Azim Haffar
 
 **Backend Engineer · ML Systems · Open to Internships in Germany 🇩🇪**
 
-[![Email](https://img.shields.io/badge/azim.haffar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar-6a197a1b4/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://azimx.dev)
 [![German B1](https://img.shields.io/badge/German-B1_Goethe-black?style=flat-square)](https://www.goethe.de)
-[![Open to Relocate](https://img.shields.io/badge/Open_to_Relocate-Germany-009688?style=flat-square)](mailto:azim.haffar@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## About
 
-Software engineer specializing in **Python backends and ML-integrated systems**.
-I build and ship production-ready applications end-to-end — from API design to containerized deployment.
-Currently seeking **paid software engineering internships in Germany** (Berlin · Munich · Hamburg).
+3rd-year Software Engineering student building **production-grade backend and ML systems**.
+Currently shipping **[HireLens](https://github.com/azim-haffar/HireLens)** — a full-stack AI recruitment engine with FastAPI, Docker, and Google Gemini.
+Seeking **paid SWE internships in Germany** (Berlin · Munich · Hamburg) for Summer/Fall 2026.
 
-- 🎓 B.Sc. Software Engineering — Ostim Technical University (3rd year)
-- 🇩🇪 German: **Goethe B1** · Open to relocate to Germany
-- 🔭 Currently shipping: **[HireLens](https://github.com/azim-haffar/HireLens)** — AI-powered ATS & recruitment engine
-- 📅 Available: **Summer / Fall 2026** · Visa sponsorship welcome
+- 🎓 B.Sc. Software Engineering — Ostim Technical University
+- 🇩🇪 German: **Goethe B1** · Relocation ready
+- 🛠 Stack: Python · FastAPI · PostgreSQL · Docker · React
+- 📅 Available: **Summer / Fall 2026** · Open to visa sponsorship
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,9 +56,9 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 
 ---
 
-## 🚀 Featured Projects
+## Featured Project
 
-### 🔍 [HireLens — AI Recruitment Screening Engine](https://github.com/azim-haffar/HireLens)
+### [HireLens — AI Recruitment Screening Engine](https://github.com/azim-haffar/HireLens)
 > Upload a CV + job URL → instant ATS score, skill gap analysis, interview prep questions, and tailored cover letter.
 > Full-stack app with OAuth, Kanban application tracker, and CV version comparison.
 
@@ -64,29 +66,30 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hire-lens-topaz.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/HireLens)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer |
 |---|---|
-| Machine Learning Specialization | Stanford University / Andrew Ng (Coursera) |
-| Advanced Learning Algorithms | Stanford University / Andrew Ng (Coursera) |
-| Deep Learning with Keras | IBM (Coursera) |
-| Machine Learning with Python | IBM (Coursera) |
+| Machine Learning Specialization | Stanford University / Andrew Ng |
+| Advanced Learning Algorithms | Stanford University / Andrew Ng |
+| Deep Learning with Keras | IBM |
+| Machine Learning with Python | IBM |
 
 ---
 
-## ⚡ What I've Built
+## GitHub Stats
 
-| Project | Stack | Status |
-|---|---|---|
-| **HireLens** — AI recruitment screening engine | FastAPI · React · Gemini · Docker · SQLAlchemy | ✅ Live |
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=azim-haffar&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim-haffar&layout=compact&theme=default&hide_border=true" />
+</div>
 
 ---
 
@@ -97,7 +100,5 @@ Currently seeking **paid software engineering internships in Germany** (Berlin �
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
-
-</div>
 
 </div>
