@@ -4,7 +4,7 @@
 
 # Azim Haffar
 
-**Backend Engineer · ML Systems · Open to Internships in Germany 🇩🇪**
+**Software Engineering Student · Python · FastAPI · ML Systems · Open to Internships in Germany 🇩🇪**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
@@ -18,13 +18,13 @@
 ## About
 
 3rd-year Software Engineering student building **production-grade backend and ML systems**.
-Currently shipping **[HireLens](https://github.com/azim-haffar/HireLens)** — a full-stack AI recruitment engine with FastAPI, Docker, and Google Gemini.
-Seeking **paid SWE internships in Germany** (Berlin · Munich · Hamburg) for Summer/Fall 2026.
+Currently shipping **[HireLens](https://github.com/azim-haffar/HireLens)** — a full-stack AI recruitment engine with FastAPI, Docker, and Groq API.
+Seeking **paid SWE internships in Germany**.
 
 - 🎓 B.Sc. Software Engineering — Ostim Technical University
-- 🇩🇪 German: **Goethe B1** · Relocation ready
-- 🛠 Stack: Python · FastAPI · PostgreSQL · Docker · React
-- 📅 Available: **Summer / Fall 2026** · Open to visa sponsorship
+- 🌍 Languages: English · German (B1) · Turkish · Arabic
+- 🛠 Stack: Python · FastAPI · PostgreSQL · Docker · React · JavaScript
+- 📅 Available: **Summer / Fall 2026** ·
 
 ---
 
