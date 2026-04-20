@@ -81,16 +81,7 @@ Seeking **paid SWE internships in Germany**.
 | Deep Learning with Keras | IBM |
 | Machine Learning with Python | IBM |
 
----
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=azim-haffar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim-haffar&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
 
 <div align="center">
 
@@ -99,5 +90,6 @@ Seeking **paid SWE internships in Germany**.
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azimx.dev)
 
 </div>
