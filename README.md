@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/210223851?v=4" width="100px" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/210223851?v=4" width="90px" style="border-radius: 50%;" />
 
 # Azim Haffar
 
-**Software Engineering Undergradute· Python · FastAPI · ML Systems · Open to Internships**
+**Backend & AI Systems · Python · FastAPI · Java · Open to SWE Internships in Germany**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
@@ -15,59 +15,44 @@
 
 ---
 
-## About
-
-3rd-year Software Engineering student building **production-grade backend and ML systems**.
-Currently shipping **[HireLens](https://github.com/azim-haffar/HireLens)** — a full-stack AI recruitment engine with FastAPI, Docker, and Groq API.
-Seeking **paid SWE internships in Germany**.
-
-- 🎓 B.Sc. Software Engineering — Ostim Technical University
-- 🌍 Languages: English · German (B1) · Turkish · Arabic
-- 🛠 Stack: Python · FastAPI · PostgreSQL · Docker · React · JavaScript
-- 📅 Available: **Summer / Fall 2026** ·
+3rd-year Software Engineering student building production-grade backend and AI systems. Interned at **Trendyol** (30M+ users). Shipping real products with real users. Seeking a **paid SWE internship in Germany — available June 2026**.
 
 ---
 
-## Tech Stack
+## Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages:** Python · Java · TypeScript · JavaScript · C
 
-**Backend & Infrastructure**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Backend & Infra:** FastAPI · Spring Boot · PostgreSQL · Redis · Kafka · Docker · GitHub Actions · AWS
 
-**ML / AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+**AI/ML:** Groq API · LangChain · PyTorch · RAG · Prompt Engineering
 
-**Frontend & Deployment**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-## Featured Project
+**Frontend:** React · Tailwind CSS · Vite
 
-### [HireLens — AI Recruitment Screening Engine](https://github.com/azim-haffar/HireLens)
-> Upload a CV + job URL → instant ATS score, skill gap analysis, interview prep questions, and tailored cover letter.
-> Full-stack app with OAuth, Kanban application tracker, and CV version comparison.
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+## Projects
+
+### [HireLens — AI Recruitment Engine](https://github.com/azim-haffar/HireLens)
+> CV parsing · ATS scoring · match scoring · interview prep · cover letter generation
+
+Full-stack AI platform serving **50+ active users**. OAuth, Kanban tracker, SSE streaming, multilingual (EN/DE/ES/DA/TR).
+
+`FastAPI` `React` `Docker` `Supabase` `Groq` `GitHub Actions`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hire-lens-topaz.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/HireLens)
+
+---
+
+### [OrderFlow — Event-Driven Order Processing](https://github.com/azim-haffar/orderflow)
+> REST → Kafka → inventory consumer · pessimistic locking · transactional outbox pattern
+
+Production-grade microservice with full Testcontainers integration suite and bilingual docs (EN/DE).
+
+`Java 21` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `Docker`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/orderflow)
 
 ---
 
@@ -75,20 +60,17 @@ Seeking **paid SWE internships in Germany**.
 
 | Certification | Issuer |
 |---|---|
-| Machine Learning Specialization | Stanford University / Andrew Ng |
-| Advanced Learning Algorithms | Stanford University / Andrew Ng |
-| Deep Learning with Keras | IBM |
+| Machine Learning Specialization | Stanford / Andrew Ng |
 | Machine Learning with Python | IBM |
 
-
+---
 
 <div align="center">
 
-### 🇩🇪 Available for Software Engineering internships in Germany
-**Summer / Fall 2026 · Relocation ready · German B1 **
+**🇩🇪 Available for SWE internships in Germany · June 2026 · German B1 · Visa on contract**
 
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azimx.dev)
 
 </div>
