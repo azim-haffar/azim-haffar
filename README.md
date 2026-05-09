@@ -4,7 +4,7 @@
 
 # Azim Haffar
 
-**Software Engineering Student · Python · FastAPI · ML Systems · Open to Internships in Germany 🇩🇪**
+**Software Engineering Undergradute· Python · FastAPI · ML Systems · Open to Internships**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
