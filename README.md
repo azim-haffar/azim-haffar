@@ -4,7 +4,7 @@
 
 # Azim Haffar
 
-**Backend & AI Systems · Python · FastAPI · Java · Open to SWE Internships in Germany**
+**Software Engineering Student · Python · Java · FastAPI · Open to SWE Internships in Germany 🇩🇪**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
@@ -56,11 +56,25 @@ Production-grade microservice with full Testcontainers integration suite and bil
 
 ---
 
+### [ML Training Inspector — Real-Time ML Monitoring Dashboard](https://github.com/azim-haffar/ml-training-inspector)
+> Live loss curves · gradient norm tracking · anomaly detection · early stopping with auto-checkpoint
+
+Real-time PyTorch training dashboard with WebSocket streaming. Detects vanishing gradients, overfitting, and loss plateaus as they happen.
+
+`Python` `PyTorch` `FastAPI` `React` `WebSockets` `Docker`
+
+[![Demo](https://img.shields.io/badge/YouTube_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/x7-KYXCESMw)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/ml-training-inspector)
+
+---
+
 ## Certifications
 
 | Certification | Issuer |
 |---|---|
 | Machine Learning Specialization | Stanford / Andrew Ng |
+| Advanced Learning Algorithms | Stanford / Andrew Ng |
+| Deep Learning with Keras | IBM |
 | Machine Learning with Python | IBM |
 
 ---
