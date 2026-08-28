@@ -4,87 +4,100 @@
 
 # Azim Haffar
 
-**Software Engineering Student · Python · Java · FastAPI · Open to SWE Internships in Germany 🇩🇪**
+**Software Engineering Student · Java · Python · Spring Boot · FastAPI · Seeking SWE Internships in Germany 🇩🇪**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://azimx.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:azim.haffar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://azimx.dev)
 [![German B1](https://img.shields.io/badge/German-B1_Goethe-black?style=flat-square)](https://www.goethe.de)
 
 </div>
 
 ---
 
-3rd-year Software Engineering student building production-grade backend and AI systems. Interned at **Trendyol** (30M+ users). Shipping real products with real users. Seeking a **paid SWE internship in Germany — available June 2026**.
+3rd-year Software Engineering student focused on backend and distributed systems. Previously interned at **Trendyol**, building software in a large-scale production environment serving **30M+ users**.
+
+Building production-oriented systems with **Java, Spring Boot, Python, FastAPI, PostgreSQL, Kafka, Redis, Docker, and React**.
+
+**Seeking a paid Software Engineering internship in Germany starting February 2028.**
 
 ---
 
-## Stack
+## Tech Stack
 
-**Languages:** Python · Java · TypeScript · JavaScript · C
+**Languages:** Java · Python · TypeScript · JavaScript · SQL · C
 
-**Backend & Infra:** FastAPI · Spring Boot · PostgreSQL · Redis · Kafka · Docker · GitHub Actions · AWS
+**Backend:** Spring Boot · FastAPI · REST APIs · Spring Data JPA · Hibernate
 
-**AI/ML:** Groq API · LangChain · PyTorch · RAG · Prompt Engineering
+**Databases & Messaging:** PostgreSQL · Redis · Kafka
 
-**Frontend:** React · Tailwind CSS · Vite
+**DevOps & Cloud:** Docker · GitHub Actions · Git · Linux · AWS
 
----
+**Frontend:** React · TypeScript · Tailwind CSS · Vite
 
-## Projects
+**AI/ML:** PyTorch · RAG · LangChain · Groq API
 
-### [HireLens — AI Recruitment Engine](https://github.com/azim-haffar/HireLens)
-> CV parsing · ATS scoring · match scoring · interview prep · cover letter generation
-
-Full-stack AI platform serving **50+ active users**. OAuth, Kanban tracker, SSE streaming, multilingual (EN/DE/ES/DA/TR).
-
-`FastAPI` `React` `Docker` `Supabase` `Groq` `GitHub Actions`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hire-lens-topaz.vercel.app)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/HireLens)
+**Testing:** JUnit · Mockito · Testcontainers · Integration Testing
 
 ---
+
+## Featured Projects
 
 ### [OrderFlow — Event-Driven Order Processing](https://github.com/azim-haffar/orderflow)
+
 > REST → Kafka → inventory consumer · pessimistic locking · transactional outbox pattern
 
-Production-grade microservice with full Testcontainers integration suite and bilingual docs (EN/DE).
+Event-driven order processing system demonstrating concurrency control, reliable messaging, transactional consistency, and integration testing.
 
-`Java 21` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `Docker`
+`Java 21` `Spring Boot 3` `Kafka` `PostgreSQL` `Redis` `Testcontainers` `Docker`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/orderflow)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azim-haffar/orderflow)
 
 ---
 
-### [ML Training Inspector — Real-Time ML Monitoring Dashboard](https://github.com/azim-haffar/ml-training-inspector)
-> Live loss curves · gradient norm tracking · anomaly detection · early stopping with auto-checkpoint
+### [HireLens — AI Recruitment Platform](https://github.com/azim-haffar/HireLens)
 
-Real-time PyTorch training dashboard with WebSocket streaming. Detects vanishing gradients, overfitting, and loss plateaus as they happen.
+> CV parsing · ATS scoring · job matching · interview preparation · cover letter generation
+
+Full-stack platform serving **50+ active users**, with OAuth authentication, Kanban application tracking, SSE streaming, and multilingual support.
+
+`Python` `FastAPI` `React` `PostgreSQL` `Docker` `Groq` `GitHub Actions`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hire-lens-topaz.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azim-haffar/HireLens)
+
+---
+
+### [ML Training Inspector — Real-Time ML Monitoring](https://github.com/azim-haffar/ml-training-inspector)
+
+> Live loss curves · gradient monitoring · anomaly detection · early stopping · automatic checkpoints
+
+Real-time PyTorch training dashboard using WebSocket streaming to detect vanishing gradients, overfitting, and loss plateaus during training.
 
 `Python` `PyTorch` `FastAPI` `React` `WebSockets` `Docker`
 
-[![Demo](https://img.shields.io/badge/YouTube_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/x7-KYXCESMw)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azim-haffar/ml-training-inspector)
+[![Demo](https://img.shields.io/badge/YouTube_Demo-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtu.be/x7-KYXCESMw)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azim-haffar/ml-training-inspector)
 
 ---
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| Machine Learning Specialization | Stanford / Andrew Ng |
-| Advanced Learning Algorithms | Stanford / Andrew Ng |
-| Deep Learning with Keras | IBM |
-| Machine Learning with Python | IBM |
+| Certification                   | Issuer                            |
+| ------------------------------- | --------------------------------- |
+| Machine Learning Specialization | DeepLearning.AI / Stanford Online |
+| Advanced Learning Algorithms    | DeepLearning.AI / Stanford Online |
+| Deep Learning with Keras        | IBM                               |
+| Machine Learning with Python    | IBM                               |
 
 ---
 
 <div align="center">
 
-**🇩🇪 Available for SWE internships in Germany · June 2026 · German B1 · Visa on contract**
+**🇩🇪 Seeking paid SWE internships in Germany · Available February 2028 · German B1**
 
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azim.haffar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azimx.dev)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:azim.haffar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azim-haffar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://azimx.dev)
 
 </div>
