@@ -64,17 +64,18 @@ My main engineering stack is **Java 21 / Spring Boot** and **Python / FastAPI**,
 
 **Event-Driven Order Processing System**
 
-Distributed backend system built around asynchronous event processing, persistence, caching, containerization, and integration testing.
+Backend-focused system demonstrating messaging, transactional consistency, concurrency control, caching, containerization, and integration testing.
 
 **Highlights**
 
-- Apache Kafka event flow using KRaft
+- Apache Kafka with KRaft
+- Transactional outbox pattern
+- Pessimistic database locking
 - PostgreSQL persistence
-- Redis
+- Redis caching
 - Docker + Docker Compose
 - Testcontainers integration testing
 - RFC 7807 error handling
-- English / German documentation
 
 **Stack**
 
@@ -96,29 +97,30 @@ Distributed backend system built around asynchronous event processing, persisten
 
 **Full-Stack AI Recruitment Platform**
 
-Full-stack application combining document processing, retrieval, LLM integration, and recruitment tooling.
+Full-stack application combining document processing, recruitment workflows, LLM integration, and deployed web infrastructure.
 
 **Highlights**
 
-- RAG document pipeline
-- Embeddings + retrieval
+- CV and job analysis workflows
+- LLM API integration
 - FastAPI backend
 - React / TypeScript frontend
 - OAuth authentication
-- Supabase persistence
+- Supabase / PostgreSQL
+- Redis
 - Docker
-- GitHub Actions CI/CD
+- GitHub Actions
 - Render + Vercel deployment
 
 **Stack**
 
 `Python` `FastAPI` `React`  
-`TypeScript` `LangChain`  
-`Supabase` `Docker`
+`TypeScript` `Supabase` `Redis`  
+`Docker` `GitHub Actions`
 
 <br>
 
-<a href="https://hire-lens-topaz.vercel.app">
+<a href="https://hirelens-alpha.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/azim-haffar/HireLens">
@@ -134,7 +136,7 @@ Full-stack application combining document processing, retrieval, LLM integration
 
 ### 📊 [ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector)
 
-Machine-learning tooling project focused on inspecting and understanding model-training behaviour.
+Real-time machine-learning training dashboard for inspecting loss curves, per-class accuracy, gradients, and training anomalies.
 
 <p>
   <a href="https://youtu.be/x7-KYXCESMw">
@@ -199,9 +201,7 @@ Machine-learning tooling project focused on inspecting and understanding model-t
 
 ## ☁️ Current Engineering Focus
 
-My current priority is building stronger practical **Cloud / DevOps** evidence through a dedicated infrastructure project.
-
-<div align="center">
+I'm currently strengthening my practical **Cloud / DevOps** evidence through a dedicated infrastructure project.
 
 ```text
 Application
@@ -223,76 +223,3 @@ Kubernetes
     │
     ▼
 Monitoring
-```
-
-</div>
-
-> **Note:** Terraform, Kubernetes, and monitoring are current build targets, not technologies I claim as established experience yet.
-
----
-
-## 🌍 Languages
-
-<div align="center">
-
-![Turkish](https://img.shields.io/badge/Turkish-Native-334155?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/Arabic-Native-334155?style=for-the-badge)
-
-<br>
-
-![English](https://img.shields.io/badge/English-C1-2563EB?style=for-the-badge)
-![German](https://img.shields.io/badge/German-B1%20Goethe--certified-1D4ED8?style=for-the-badge)
-
-</div>
-
----
-
-## 🎯 Current Goal
-
-<div align="center">
-
-### Paid Software Engineering Internship in Europe
-
-**Primary interests**
-
-`Backend Engineering` · `Cloud / DevOps` · `Software Engineering`
-
-<br>
-
-Available as soon as **visa and work-permit requirements allow**.
-
-Expected graduation: **February 2028**
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-Interested in **backend systems, distributed software, cloud engineering, and production-oriented development**.
-
-<br>
-
-<a href="mailto:azim.haffar@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/azim-haffar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://azimx.dev">
-  <img src="https://img.shields.io/badge/azimx.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br><br>
-
-📍 **Mersin, Türkiye** · Open to relocation
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" />
-
-</div>
