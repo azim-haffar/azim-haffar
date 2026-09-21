@@ -34,7 +34,9 @@ I'm a **4th-year Software Engineering student** at OSTİM Technical University f
 
 I have commercial software development experience through freelance work for **Kvote 2 Hjælperen**, where I built and delivered Python software integrating **LLM APIs and dynamic prompt/inference workflows**.
 
-My main engineering stack is **Java 21 / Spring Boot** and **Python / FastAPI**, supported by PostgreSQL, Kafka, Redis, Docker, GitHub Actions, and Linux.
+My main engineering stack is **Java 21 / Spring Boot** and **Python / FastAPI**, supported by PostgreSQL, Kafka, Redis, Docker, GitHub Actions, Linux, and integration testing.
+
+I am especially interested in systems where backend engineering meets **messaging, reliability, deployment, and infrastructure**.
 
 > 🎯 **Currently seeking a paid Backend / Software Engineering / Cloud internship in Europe.**  
 > Available as soon as visa and work-permit requirements allow.
@@ -64,18 +66,20 @@ My main engineering stack is **Java 21 / Spring Boot** and **Python / FastAPI**,
 
 **Event-Driven Order Processing System**
 
-Backend-focused system demonstrating messaging, transactional consistency, concurrency control, caching, containerization, and integration testing.
+Backend-focused order-processing system built to demonstrate messaging, transactional consistency, concurrency control, caching, containerization, and integration testing.
 
 **Highlights**
 
-- Apache Kafka with KRaft
+- Apache Kafka event processing using KRaft
 - Transactional outbox pattern
 - Pessimistic database locking
 - PostgreSQL persistence
-- Redis caching
+- Redis product caching
 - Docker + Docker Compose
-- Testcontainers integration testing
-- RFC 7807 error handling
+- Testcontainers integration tests
+- RFC 7807 API error handling
+- GitHub Actions CI
+- English / German documentation
 
 **Stack**
 
@@ -95,22 +99,25 @@ Backend-focused system demonstrating messaging, transactional consistency, concu
 
 ### 🤖 [HireLens](https://github.com/azim-haffar/HireLens)
 
-**Full-Stack AI Recruitment Platform**
+**AI-Powered Recruitment & Job Application Platform**
 
-Full-stack application combining document processing, recruitment workflows, LLM integration, and deployed web infrastructure.
+Full-stack application combining CV analysis, job matching, recruitment workflows, LLM integration, and deployed web infrastructure.
 
 **Highlights**
 
-- CV and job analysis workflows
-- LLM API integration
-- FastAPI backend
-- React / TypeScript frontend
-- OAuth authentication
-- Supabase / PostgreSQL
-- Redis
+- PDF CV parsing and analysis
+- Job description ingestion
+- Weighted job-match scoring
+- ATS auditing
+- Interview preparation
+- Cover-letter generation
+- Application tracking
+- Contextual AI chat
+- SSE-streamed AI responses
+- Supabase authentication + RLS
+- Redis rate limiting
 - Docker
-- GitHub Actions
-- Render + Vercel deployment
+- Vercel + Render deployment
 
 **Stack**
 
@@ -136,7 +143,27 @@ Full-stack application combining document processing, recruitment workflows, LLM
 
 ### 📊 [ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector)
 
-Real-time machine-learning training dashboard for inspecting loss curves, per-class accuracy, gradients, and training anomalies.
+**Real-Time Machine Learning Training Monitor**
+
+Tool for observing machine-learning training behaviour while a model is running rather than only inspecting metrics after completion.
+
+**Highlights**
+
+- Live training and validation metrics
+- Per-layer gradient monitoring
+- Vanishing / exploding gradient detection
+- Overfitting and plateau signals
+- FastAPI + WebSocket streaming
+- Background PyTorch training
+- Multi-client metric broadcasting
+- Early stopping and checkpointing
+- React monitoring dashboard
+- Docker Compose environment
+
+**Stack**
+
+`Python` `PyTorch` `FastAPI`  
+`WebSockets` `React` `Docker`
 
 <p>
   <a href="https://youtu.be/x7-KYXCESMw">
@@ -159,6 +186,10 @@ Real-time machine-learning training dashboard for inspecting loss curves, per-cl
 
 <br>
 
+`Java 21` · `Spring Boot` · `Python` · `FastAPI`
+
+<br>
+
 `REST APIs` · `Spring Data JPA` · `Hibernate`
 
 <br><br>
@@ -166,6 +197,10 @@ Real-time machine-learning training dashboard for inspecting loss curves, per-cl
 ### Data & Messaging
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,supabase" />
+
+<br>
+
+`PostgreSQL` · `Redis` · `Apache Kafka` · `Supabase`
 
 <br><br>
 
@@ -175,7 +210,11 @@ Real-time machine-learning training dashboard for inspecting loss curves, per-cl
 
 <br>
 
-`Docker Compose` · `CI/CD` · `AWS (fundamentals)`
+`Docker` · `Docker Compose` · `GitHub Actions` · `CI/CD`
+
+<br>
+
+`Linux` · `Git` · `AWS (fundamentals)`
 
 <br><br>
 
@@ -189,37 +228,38 @@ Real-time machine-learning training dashboard for inspecting loss curves, per-cl
 
 <img src="https://skillicons.dev/icons?i=react,typescript" />
 
+<br>
+
+`React` · `TypeScript`
+
 <br><br>
 
-### AI / LLM
+### AI / ML
 
-`LLM API Integration` · `RAG` · `Embeddings & Retrieval` · `Prompt Engineering` · `LangChain`
+`LLM API Integration` · `Prompt Engineering`  
+`PyTorch` · `Training Monitoring`
 
 </div>
 
 ---
 
-## ☁️ Current Engineering Focus
+## 🧩 Engineering Evidence
 
-I'm currently strengthening my practical **Cloud / DevOps** evidence through a dedicated infrastructure project.
+### Backend & Distributed Systems
+
+Through **OrderFlow**, I have worked with:
 
 ```text
-Application
-    │
-    ▼
-  Docker
-    │
-    ▼
-GitHub Actions
-    │
-    ▼
- Terraform
-    │
-    ▼
-   AWS
-    │
-    ▼
-Kubernetes
-    │
-    ▼
-Monitoring
+REST APIs
+    +
+PostgreSQL
+    +
+Transactional Outbox
+    +
+Apache Kafka
+    +
+Concurrency Control
+    +
+Redis
+    +
+Integration Testing
