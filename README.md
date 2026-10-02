@@ -1,142 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Azim%20Haffar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Applied%20AI&descSize=16&descAlignY=58" width="100%" alt="Azim Haffar — Software Engineering, Backend Systems, Applied AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=210&section=header&text=Azim%20Haffar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=APIs.%20Events.%20Models.%20Let%27s%20build.&descSize=19&descAlignY=62" width="100%" alt="Azim Haffar — APIs. Events. Models. Let's build." />
 
-<img src="https://avatars.githubusercontent.com/u/210223851?v=4" width="105" alt="Azim Haffar" />
+### Backend roots. Full-stack curiosity. Applied AI.
 
-## Software Engineering Student
+Software Engineering student · Former Backend Intern at **Trendyol**  
+Paid Python/LLM development for **Kvote 2 Hjælperen**
 
-**Backend internship at Trendyol · Paid Python/LLM development**
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,postgres,kafka,docker&perline=8" alt="Java, Spring, Python, FastAPI, React, PostgreSQL, Kafka, Docker" />
 
-Java · Spring Boot · Python · FastAPI
+<br /><br />
 
-<p>
-  <a href="https://www.azimx.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/azim-haffar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:azim.haffar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
-  </a>
-</p>
+<a href="https://www.azimx.dev/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/azim-haffar/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:azim.haffar@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
 
-**Expected graduation: August 2027**  
-**Full-time internship availability: 17 January 2027**
+<br /><br />
+
+**🎓 Expected graduation: August 2027**  
+**🌍 Paid internships from 17 January 2027 · Open to relocation**
 
 </div>
 
 ---
 
-## About me
+## ⚡ The quick introduction
 
-I'm a fourth-year **Software Engineering student at OSTİM Technical University**, based in Mersin, Türkiye.
+I build backends, connect services, and explore what happens when AI joins the workflow.
 
-My experience includes a **backend engineering internship at Trendyol** and **paid freelance Python/LLM development for Kvote 2 Hjælperen**. My projects explore event-driven order processing, AI-assisted CV analysis, and tools for observing machine-learning training.
+My favourite questions: **What happens if two requests arrive together? What if a service fails? How do we know the output is useful?**
 
-My main stack is **Java/Spring Boot** and **Python/FastAPI**, with PostgreSQL, Kafka, Redis, Docker, and integration testing. I'm particularly interested in how systems behave under concurrency, service failures, and changing data.
+Java and Python are my starting points. The projects below show where that curiosity takes me.
 
-I'm seeking a **paid technical internship from 17 January 2027**, preferably for **4–12 months**. I'm open to relocation, with Europe preferred and Türkiye also welcome.
+## 💼 Beyond personal projects
 
----
+**🛒 Trendyol · Backend Engineering Intern**  
+<sub>June–September 2025 · Istanbul</sub>
 
-## Professional experience
+Built and demonstrated a **Coupon Usage Tracker** with Spring Boot and PostgreSQL. Added REST endpoints, JUnit/Testcontainers tests, Docker packaging, and documentation. Also contributed API changes and bug fixes within existing services.
 
-### Kvote 2 Hjælperen — Freelance Software Developer
+**🧠 Kvote 2 Hjælperen · Freelance Software Developer**  
+<sub>February–April 2026 · Remote · Paid work</sub>
 
-**Remote · February–April 2026**
+Delivered a **Python/LLM study tool** turning study materials into practice questions—with a separate LLM review step and application-level validation before questions reached students.
 
-- Delivered a paid Python study tool integrating LLM APIs to generate practice questions using students' study materials as context.
-- Implemented dynamic prompt generation and prompt chaining.
-- Added a separate LLM evaluation step reviewing questions against the source material for relevance, grounding, clarity, and answerability.
-- Implemented application-level checks for required fields and response structure, with rejection or regeneration of questions that failed checks.
+## 🚀 Three projects. Three engineering questions.
 
-### Trendyol — Backend Engineering Intern
+### 📨 OrderFlow
+**What happens after you click “Place order”?**
 
-**Istanbul, Türkiye · Onsite · June–September 2025**
+An event-driven order-processing project exploring Kafka messaging, PostgreSQL persistence, Redis caching, and integration testing.
 
-- Built and demonstrated a **Coupon Usage Tracker microservice** using Java, Spring Boot, and PostgreSQL.
-- Implemented REST endpoints for recording coupon usage, looking up user usage, and checking coupon exhaustion.
-- Wrote unit and integration tests using JUnit and Testcontainers, packaged the service with Docker, and documented its setup.
-- Contributed API changes, validation, bug fixes, and tests within existing backend services.
-- Participated in sprint planning and presented internship work and engineering decisions to the team.
+`Java` `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Testcontainers`
+
+**[Follow the order →](https://github.com/azim-haffar/OrderFlow)**
 
 ---
 
-## Selected projects
+### 🔎 HireLens
+**Can AI help make sense of a CV and a job description?**
 
-### OrderFlow
+A FastAPI/React project whose documented workflows cover CV analysis, job matching, interview preparation, and application tracking.
 
-**Event-driven order processing**
+`Python` `FastAPI` `React` `Supabase` `LLM APIs`
 
-A Java/Spring Boot project exploring asynchronous order processing with Kafka, PostgreSQL persistence, and Redis caching.
-
-The repository includes Docker Compose configuration, integration-test code, and English/German technical documentation.
-
-**Focus:** backend architecture, messaging, concurrency, and integration testing.
-
-`Java 21` · `Spring Boot` · `Kafka` · `PostgreSQL` · `Redis` · `Docker` · `Testcontainers`
-
-[Explore the repository →](https://github.com/azim-haffar/OrderFlow)
-
-### HireLens
-
-**AI-assisted CV analysis and application management**
-
-A full-stack project combining a FastAPI backend, React frontend, LLM integration, and Supabase. Its documentation describes CV analysis, job matching, interview preparation, and application tracking.
-
-**Focus:** API integration, document processing, and full-stack workflows.
-
-`Python` · `FastAPI` · `React` · `Supabase` · `LLM APIs` · `Docker`
-
-[Explore the repository →](https://github.com/azim-haffar/HireLens)
-
-### ML Training Inspector
-
-**PyTorch training visualization**
-
-A browser dashboard for observing training metrics using FastAPI, WebSockets, and React.
-
-The training implementation includes loss and accuracy metrics, per-class accuracy calculation, gradient norms, and checkpoint saving on completion or a manual stop. Diagnostic signals use threshold-based heuristics.
-
-**Focus:** ML tooling, training observability, and real-time visualization.
-
-`Python` · `PyTorch` · `FastAPI` · `WebSockets` · `React` · `Docker Compose`
-
-[Explore the repository →](https://github.com/azim-haffar/ml-training-inspector) · [Demo video →](https://youtu.be/x7-KYXCESMw)
+**[Look through the lens →](https://github.com/azim-haffar/HireLens)**
 
 ---
 
-## Technical toolkit
+### 📈 ML Training Inspector
+**The model is training. But what is it actually doing?**
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Java, Spring Boot, Python, FastAPI, REST APIs, Spring Data JPA, Hibernate |
-| Data and messaging | PostgreSQL, Kafka, Redis, Supabase |
-| Testing | JUnit, Mockito, Testcontainers, integration testing |
-| Development and delivery | Git, Docker, Docker Compose, GitHub Actions, Linux |
-| Frontend | React, TypeScript |
-| AI and ML | LLM API integration, PyTorch, training visualization |
+A PyTorch training dashboard with loss, accuracy, and gradient monitoring. The training code includes per-class accuracy calculation and checkpoint saving.
 
-**Additional exposure:** AWS fundamentals.
+`PyTorch` `FastAPI` `WebSockets` `React`
+
+**[Inspect the training →](https://github.com/azim-haffar/ml-training-inspector)** · **[▶ Watch the demo](https://youtu.be/x7-KYXCESMw)**
 
 ---
 
-## Education and languages
+<details>
+<summary><b>🧰 Open the toolbox</b></summary>
 
-**B.Sc. Software Engineering — OSTİM Technical University**  
-English-taught program · Expected graduation **August 2027**
+<br />
 
-- **English:** C1
-- **German:** B1, Goethe-certified
-- **Turkish:** Native
-- **Arabic:** Native
+| Focus | Tools |
+| :--- | :--- |
+| Backend | Java · Spring Boot · Python · FastAPI |
+| Data & messaging | PostgreSQL · Kafka · Redis · Supabase |
+| Testing | JUnit · Mockito · Testcontainers |
+| Delivery | Docker · Docker Compose · GitHub Actions · Linux |
+| Frontend | React · TypeScript |
+| AI & ML | LLM integration · PyTorch |
+| Foundations | AWS fundamentals |
 
----
+</details>
 
-## Get in touch
+<br />
 
-Interested in discussing an internship or a scoped development project?
+<div align="center">
 
-[Portfolio](https://www.azimx.dev/) · [LinkedIn](https://www.linkedin.com/in/azim-haffar/) · [Email](mailto:azim.haffar@gmail.com)
+### 🌍 Based in Türkiye. Open to the next chapter.
+
+**OSTİM Technical University · B.Sc. Software Engineering**
+
+English C1 · German B1 (Goethe-certified) · Turkish & Arabic native
+
+**Seeking paid technical internships · Preferred duration: 4–12 months**
+
+[Explore my portfolio](https://www.azimx.dev/) · [Let's connect](https://www.linkedin.com/in/azim-haffar/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt="" />
+
+</div>
