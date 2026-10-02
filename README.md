@@ -1,265 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Azim%20Haffar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineering%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Azim%20Haffar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Applied%20AI&descSize=16&descAlignY=58" width="100%" alt="Azim Haffar — Software Engineering, Backend Systems, Applied AI" />
 
 <img src="https://avatars.githubusercontent.com/u/210223851?v=4" width="105" alt="Azim Haffar" />
 
 ## Software Engineering Student
 
-**Java · Spring Boot · Python · FastAPI · Docker**
+**Backend internship at Trendyol · Paid Python/LLM development**
+
+Java · Spring Boot · Python · FastAPI
 
 <p>
+  <a href="https://www.azimx.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/azim-haffar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
   <a href="mailto:azim.haffar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/azim-haffar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://azimx.dev">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
   </a>
 </p>
 
-![German](https://img.shields.io/badge/German-B1%20Goethe--certified-1D4ED8?style=flat-square)
-![Europe](https://img.shields.io/badge/Open%20to-European%20Internships-2563EB?style=flat-square)
-![Graduation](https://img.shields.io/badge/Graduation-February%202028-475569?style=flat-square)
+**Expected graduation: August 2027**  
+**Full-time internship availability: 17 January 2027**
 
 </div>
 
 ---
 
-## 👋 About Me
+## About me
 
-I'm a **4th-year Software Engineering student** at OSTİM Technical University focused on **backend engineering, distributed systems, and cloud-oriented development**.
+I'm a fourth-year **Software Engineering student at OSTİM Technical University**, based in Mersin, Türkiye.
 
-I have commercial software development experience through freelance work for **Kvote 2 Hjælperen**, where I built and delivered Python software integrating **LLM APIs and dynamic prompt/inference workflows**.
+My experience includes a **backend engineering internship at Trendyol** and **paid freelance Python/LLM development for Kvote 2 Hjælperen**. My projects explore event-driven order processing, AI-assisted CV analysis, and tools for observing machine-learning training.
 
-My main engineering stack is **Java 21 / Spring Boot** and **Python / FastAPI**, supported by PostgreSQL, Kafka, Redis, Docker, GitHub Actions, Linux, and integration testing.
+My main stack is **Java/Spring Boot** and **Python/FastAPI**, with PostgreSQL, Kafka, Redis, Docker, and integration testing. I'm particularly interested in how systems behave under concurrency, service failures, and changing data.
 
-I am especially interested in systems where backend engineering meets **messaging, reliability, deployment, and infrastructure**.
-
-> 🎯 **Currently seeking a paid Backend / Software Engineering / Cloud internship in Europe.**  
-> Available as soon as visa and work-permit requirements allow.
+I'm seeking a **paid technical internship from 17 January 2027**, preferably for **4–12 months**. I'm open to relocation, with Europe preferred and Türkiye also welcome.
 
 ---
 
-## 💼 Professional Experience
+## Professional experience
 
 ### Kvote 2 Hjælperen — Freelance Software Developer
 
-**Remote · Feb 2026 – Apr 2026**
+**Remote · February–April 2026**
 
-- Built and shipped a **Python tool integrating LLM APIs** with dynamic prompt-generation workflows for a paying client.
-- Designed inference pipelines using **prompt chaining and evaluation logic** to keep output consistent across varied inputs.
-- Owned the full development cycle: **requirements → architecture → implementation → testing → delivery**.
+- Delivered a paid Python study tool integrating LLM APIs to generate practice questions using students' study materials as context.
+- Implemented dynamic prompt generation and prompt chaining.
+- Added a separate LLM evaluation step reviewing questions against the source material for relevance, grounding, clarity, and answerability.
+- Implemented application-level checks for required fields and response structure, with rejection or regeneration of questions that failed checks.
 
----
+### Trendyol — Backend Engineering Intern
 
-## 🚀 Featured Projects
+**Istanbul, Türkiye · Onsite · June–September 2025**
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ [OrderFlow](https://github.com/azim-haffar/OrderFlow)
-
-**Event-Driven Order Processing System**
-
-Backend-focused order-processing system built to demonstrate messaging, transactional consistency, concurrency control, caching, containerization, and integration testing.
-
-**Highlights**
-
-- Apache Kafka event processing using KRaft
-- Transactional outbox pattern
-- Pessimistic database locking
-- PostgreSQL persistence
-- Redis product caching
-- Docker + Docker Compose
-- Testcontainers integration tests
-- RFC 7807 API error handling
-- GitHub Actions CI
-- English / German documentation
-
-**Stack**
-
-`Java 21` `Spring Boot 3`  
-`Kafka` `PostgreSQL` `Redis`  
-`Docker` `Testcontainers` `JUnit`
-
-<br>
-
-<a href="https://github.com/azim-haffar/OrderFlow">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 [HireLens](https://github.com/azim-haffar/HireLens)
-
-**AI-Powered Recruitment & Job Application Platform**
-
-Full-stack application combining CV analysis, job matching, recruitment workflows, LLM integration, and deployed web infrastructure.
-
-**Highlights**
-
-- PDF CV parsing and analysis
-- Job description ingestion
-- Weighted job-match scoring
-- ATS auditing
-- Interview preparation
-- Cover-letter generation
-- Application tracking
-- Contextual AI chat
-- SSE-streamed AI responses
-- Supabase authentication + RLS
-- Redis rate limiting
-- Docker
-- Vercel + Render deployment
-
-**Stack**
-
-`Python` `FastAPI` `React`  
-`TypeScript` `Supabase` `Redis`  
-`Docker` `GitHub Actions`
-
-<br>
-
-<a href="https://hirelens-alpha.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/azim-haffar/HireLens">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### 📊 [ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector)
-
-**Real-Time Machine Learning Training Monitor**
-
-Tool for observing machine-learning training behaviour while a model is running rather than only inspecting metrics after completion.
-
-**Highlights**
-
-- Live training and validation metrics
-- Per-layer gradient monitoring
-- Vanishing / exploding gradient detection
-- Overfitting and plateau signals
-- FastAPI + WebSocket streaming
-- Background PyTorch training
-- Multi-client metric broadcasting
-- Early stopping and checkpointing
-- React monitoring dashboard
-- Docker Compose environment
-
-**Stack**
-
-`Python` `PyTorch` `FastAPI`  
-`WebSockets` `React` `Docker`
-
-<p>
-  <a href="https://youtu.be/x7-KYXCESMw">
-    <img src="https://img.shields.io/badge/YouTube_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/azim-haffar/ml-training-inspector">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- Built and demonstrated a **Coupon Usage Tracker microservice** using Java, Spring Boot, and PostgreSQL.
+- Implemented REST endpoints for recording coupon usage, looking up user usage, and checking coupon exhaustion.
+- Wrote unit and integration tests using JUnit and Testcontainers, packaged the service with Docker, and documented its setup.
+- Contributed API changes, validation, bug fixes, and tests within existing backend services.
+- Participated in sprint planning and presented internship work and engineering decisions to the team.
 
 ---
 
-## 🛠️ Technical Stack
+## Selected projects
 
-<div align="center">
+### OrderFlow
 
-### Backend
+**Event-driven order processing**
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+A Java/Spring Boot project exploring asynchronous order processing with Kafka, PostgreSQL persistence, and Redis caching.
 
-<br>
+The repository includes Docker Compose configuration, integration-test code, and English/German technical documentation.
 
-`Java 21` · `Spring Boot` · `Python` · `FastAPI`
+**Focus:** backend architecture, messaging, concurrency, and integration testing.
 
-<br>
+`Java 21` · `Spring Boot` · `Kafka` · `PostgreSQL` · `Redis` · `Docker` · `Testcontainers`
 
-`REST APIs` · `Spring Data JPA` · `Hibernate`
+[Explore the repository →](https://github.com/azim-haffar/OrderFlow)
 
-<br><br>
+### HireLens
 
-### Data & Messaging
+**AI-assisted CV analysis and application management**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,supabase" />
+A full-stack project combining a FastAPI backend, React frontend, LLM integration, and Supabase. Its documentation describes CV analysis, job matching, interview preparation, and application tracking.
 
-<br>
+**Focus:** API integration, document processing, and full-stack workflows.
 
-`PostgreSQL` · `Redis` · `Apache Kafka` · `Supabase`
+`Python` · `FastAPI` · `React` · `Supabase` · `LLM APIs` · `Docker`
 
-<br><br>
+[Explore the repository →](https://github.com/azim-haffar/HireLens)
 
-### DevOps & Engineering
+### ML Training Inspector
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,aws" />
+**PyTorch training visualization**
 
-<br>
+A browser dashboard for observing training metrics using FastAPI, WebSockets, and React.
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `CI/CD`
+The training implementation includes loss and accuracy metrics, per-class accuracy calculation, gradient norms, and checkpoint saving on completion or a manual stop. Diagnostic signals use threshold-based heuristics.
 
-<br>
+**Focus:** ML tooling, training observability, and real-time visualization.
 
-`Linux` · `Git` · `AWS (fundamentals)`
+`Python` · `PyTorch` · `FastAPI` · `WebSockets` · `React` · `Docker Compose`
 
-<br><br>
-
-### Testing
-
-`JUnit` · `Mockito` · `Testcontainers` · `Integration Testing`
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,typescript" />
-
-<br>
-
-`React` · `TypeScript`
-
-<br><br>
-
-### AI / ML
-
-`LLM API Integration` · `Prompt Engineering`  
-`PyTorch` · `Training Monitoring`
-
-</div>
+[Explore the repository →](https://github.com/azim-haffar/ml-training-inspector) · [Demo video →](https://youtu.be/x7-KYXCESMw)
 
 ---
 
-## 🧩 Engineering Evidence
+## Technical toolkit
 
-### Backend & Distributed Systems
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Python, FastAPI, REST APIs, Spring Data JPA, Hibernate |
+| Data and messaging | PostgreSQL, Kafka, Redis, Supabase |
+| Testing | JUnit, Mockito, Testcontainers, integration testing |
+| Development and delivery | Git, Docker, Docker Compose, GitHub Actions, Linux |
+| Frontend | React, TypeScript |
+| AI and ML | LLM API integration, PyTorch, training visualization |
 
-Through **OrderFlow**, I have worked with:
+**Additional exposure:** AWS fundamentals.
 
-```text
-REST APIs
-    +
-PostgreSQL
-    +
-Transactional Outbox
-    +
-Apache Kafka
-    +
-Concurrency Control
-    +
-Redis
-    +
-Integration Testing
+---
+
+## Education and languages
+
+**B.Sc. Software Engineering — OSTİM Technical University**  
+English-taught program · Expected graduation **August 2027**
+
+- **English:** C1
+- **German:** B1, Goethe-certified
+- **Turkish:** Native
+- **Arabic:** Native
+
+---
+
+## Get in touch
+
+Interested in discussing an internship or a scoped development project?
+
+[Portfolio](https://www.azimx.dev/) · [LinkedIn](https://www.linkedin.com/in/azim-haffar/) · [Email](mailto:azim.haffar@gmail.com)
