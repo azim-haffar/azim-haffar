@@ -1,30 +1,44 @@
 <div align="center">
 
-![Azim Haffar — Backend systems, full-stack, applied AI](assets/header.svg)
+![Azim Haffar — animated illustration of OrderFlow's event path](assets/engineering.gif)
 
 **Software Engineering student · Former Backend Intern at Trendyol**
 
-[Portfolio](https://azimx.dev) · [LinkedIn](https://www.linkedin.com/in/azim-haffar/) · [Email](mailto:azim.haffar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-See_the_work-0b1220?style=for-the-badge&logo=vercel&logoColor=67dfef)](https://azimx.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let%E2%80%99s_connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=67dfef)](https://www.linkedin.com/in/azim-haffar/)
+[![Email](https://img.shields.io/badge/EMAIL-Get_in_touch-0b1220?style=for-the-badge&logo=gmail&logoColor=67dfef)](mailto:azim.haffar@gmail.com)
 
-Paid internships from **17 January 2027** · 4–12 months preferred · Open to relocation
+**Paid internships from 17 January 2027** · 4–12 months preferred · Open to relocation
+
+![Three projects, 21 passing project tests, four application CI workflows](assets/evidence.svg)
+
+<sub>Verified snapshot: 3 October 2026. Test counts describe covered cases, not model accuracy or production readiness.</sub>
 
 </div>
 
-## Three systems. Three engineering questions.
+## Pick an engineering question
 
-| Project | The question | Explore |
-| --- | --- | --- |
-| **[OrderFlow](https://github.com/azim-haffar/OrderFlow)** | What happens when an order event arrives twice? | Java / Spring Boot · transactional outbox · Kafka · PostgreSQL locks · Testcontainers |
-| **[HireLens](https://github.com/azim-haffar/HireLens)** | Can a CV-to-job score explain its reasoning? | Python / FastAPI · React · Supabase · LLM extraction + rule-based scoring · [Live frontend](https://hirelens-alpha.vercel.app) |
-| **[ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector)** | What is the model doing while it learns? | PyTorch · WebSockets · gradient monitoring · [Video walkthrough](https://youtu.be/x7-KYXCESMw) |
+| Project | What makes it worth opening | Evidence & demo |
+| :--- | :--- | :--- |
+| **[OrderFlow →](https://github.com/azim-haffar/OrderFlow)**<br />`Java` `Spring Boot` `Kafka` | **An event arrives twice. Stock moves once.**<br />Transactional outbox, coordinated order/product locks, Redis caching. | **10 passing Java tests**, including concurrent duplicate delivery.<br />[Architecture](https://github.com/azim-haffar/OrderFlow/blob/main/docs/architecture.md) · [Case study](https://azimx.dev/projects/orderflow) |
+| **[HireLens →](https://github.com/azim-haffar/HireLens)**<br />`Python` `FastAPI` `React` | **A match score you can trace.**<br />LLM extraction, rule-based scoring, Supabase-backed workflows. | **5 matching/advice regression tests.**<br />[Live frontend](https://hirelens-alpha.vercel.app) · [Scoring code](https://github.com/azim-haffar/HireLens/blob/main/backend/app/services/match_scorer.py) |
+| **[ML Training Inspector →](https://github.com/azim-haffar/ml-training-inspector)**<br />`PyTorch` `WebSockets` `React` | **Watch the learning, not the loading bar.**<br />Loss, class accuracy, gradient norms, threshold alerts and manual stop. | **6 API/configuration/anomaly tests**; no model-quality benchmark claimed.<br />[Video walkthrough ▶](https://youtu.be/x7-KYXCESMw) · [Training loop](https://github.com/azim-haffar/ml-training-inspector/blob/main/backend/trainer.py) |
 
-## Experience beyond personal projects
+<div align="center">
 
-**Trendyol · Backend Engineering Intern** — June–September 2025<br />
-Built and demonstrated a Spring Boot/PostgreSQL Coupon Usage Tracker, wrote unit and integration tests, packaged it with Docker, and contributed API changes and bug fixes within existing services.
+**OrderFlow** [![OrderFlow CI](https://github.com/azim-haffar/OrderFlow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/azim-haffar/OrderFlow/actions/workflows/ci.yml)
+**HireLens** [![HireLens CI](https://github.com/azim-haffar/HireLens/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/azim-haffar/HireLens/actions/workflows/ci.yml)
+**ML Inspector** [![ML Inspector CI](https://github.com/azim-haffar/ml-training-inspector/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/azim-haffar/ml-training-inspector/actions/workflows/ci.yml)
+**Portfolio** [![Portfolio CI](https://github.com/azim-haffar/azimx.dev/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/azim-haffar/azimx.dev/actions/workflows/ci.yml)
 
-**Kvote 2 Hjælperen · Freelance Software Developer** — February–April 2026<br />
-Delivered a paid Python/LLM study-question tool with a separate LLM evaluation step and application-level validation.
+</div>
+
+## Built beyond the classroom
+
+| Where | What I delivered |
+| :--- | :--- |
+| **Trendyol · Backend Intern**<br />Jun–Sep 2025 | Spring Boot/PostgreSQL Coupon Usage Tracker, unit/integration tests and Docker packaging; API changes and bug fixes in existing services. |
+| **Kvote 2 Hjælperen · Paid freelance development**<br />Feb–Apr 2026 | Python/LLM study-question tool with a separate LLM evaluation step and application-level validation. |
 
 <details>
 <summary><b>Education, languages & toolkit</b></summary>
@@ -38,6 +52,15 @@ Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL ·
 
 </details>
 
+<details>
+<summary><b>Prefer a static banner?</b></summary>
+
+![Static engineering banner](assets/engineering-static.png)
+
+The animation stops after three loops. Its moving event is an illustration, not a live system measurement.
+
+</details>
+
 ---
 
-**Have something worth building?** [See the work and get in touch →](https://azimx.dev)
+**Have something worth building?** [Explore the portfolio and get in touch →](https://azimx.dev)
