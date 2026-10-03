@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-label="Three showcase projects, 21 passing project tests, four application CI workflows">
+<rect width="1200" height="148" rx="14" fill="#0b1220"/>
+<g stroke="#28354a"><path d="M400 24v100M800 24v100"/></g>
+<g font-family="Arial,sans-serif" text-anchor="middle"><g font-weight="700" font-size="52" fill="#67dfef"><text x="200" y="70">03</text><text x="600" y="70">21</text><text x="1000" y="70">04</text></g>
+<g font-size="17" fill="#e6edf7"><text x="200" y="103">SHOWCASE PROJECTS</text><text x="600" y="103">PASSING PROJECT TESTS</text><text x="1000" y="103">APPLICATION CI WORKFLOWS</text></g>
+<g font-size="12" fill="#8fa3bd"><text x="200" y="126">Backend / Full-stack / ML tooling</text><text x="600" y="126">10 Java + 5 matching + 6 ML API/rules</text><text x="1000" y="126">Tests, builds &amp; portfolio lint</text></g></g></svg>
