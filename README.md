@@ -10,9 +10,9 @@
 
 **Paid internships from 17 January 2027** · 4–12 months preferred · Open to relocation
 
-![Three projects, 21 passing project tests, four application CI workflows](assets/evidence.svg)
+**Current flagship: SeatLedger** · Reservations, recovery and replayable analytics
 
-<sub>Verified snapshot: 3 October 2026. Test counts describe covered cases, not model accuracy or production readiness.</sub>
+<sub>Profile updated 20 October 2026. SeatLedger is a portfolio demo; its source repository is private. Demo services can sleep. Project limitations and verification scope are linked below.</sub>
 
 </div>
 
@@ -20,9 +20,10 @@
 
 | Project | What makes it worth opening | Evidence & demo |
 | :--- | :--- | :--- |
-| **[OrderFlow →](https://github.com/azim-haffar/OrderFlow)**<br />`Java` `Spring Boot` `Kafka` | **An event arrives twice. Stock moves once.**<br />Transactional outbox, coordinated order/product locks, Redis caching. | **10 passing Java tests**, including concurrent duplicate delivery.<br />[Architecture](https://github.com/azim-haffar/OrderFlow/blob/main/docs/architecture.md) · [Case study](https://azimx.dev/projects/orderflow) |
-| **[HireLens →](https://github.com/azim-haffar/HireLens)**<br />`Python` `FastAPI` `React` | **A match score you can trace.**<br />LLM extraction, rule-based scoring, Supabase-backed workflows. | **5 matching/advice regression tests.**<br />[Live frontend](https://hirelens-alpha.vercel.app) · [Scoring code](https://github.com/azim-haffar/HireLens/blob/main/backend/app/services/match_scorer.py) |
-| **[ML Training Inspector →](https://github.com/azim-haffar/ml-training-inspector)**<br />`PyTorch` `WebSockets` `React` | **Watch the learning, not the loading bar.**<br />Loss, class accuracy, gradient norms, threshold alerts and manual stop. | **6 API/configuration/anomaly tests**; no model-quality benchmark claimed.<br />[Video walkthrough ▶](https://youtu.be/x7-KYXCESMw) · [Training loop](https://github.com/azim-haffar/ml-training-inspector/blob/main/backend/trainer.py) |
+| **[SeatLedger →](https://www.azimx.dev/projects/seatledger)**<br />`Java 21` `Spring Boot` `PostgreSQL` `React / TypeScript` `Python / SQL` | **Who gets the last seat when requests race?**<br />Temporary holds, strict expiry and persisted idempotency; replayable booking analytics. | Reservation locking and retry handling inspected in source; concurrency, recovery and analytics checks documented in the case study.<br />[Engineering case study](https://www.azimx.dev/projects/seatledger) · [Hosted demo](https://seatledger-portfolio.vercel.app/) (free backend may sleep; shared demo accounts). Source repository is private. |
+| **[OrderFlow →](https://github.com/azim-haffar/OrderFlow)**<br />`Java` `Spring Boot` `Kafka` | **An event arrives twice. Stock moves once.**<br />Transactional outbox, coordinated order/product locks, Redis caching. | Regression coverage for duplicate delivery and order-state handling.<br />[Architecture](https://github.com/azim-haffar/OrderFlow/blob/main/docs/architecture.md) · [Case study](https://azimx.dev/projects/orderflow) |
+| **[HireLens →](https://github.com/azim-haffar/HireLens)**<br />`Python` `FastAPI` `React` | **A match score you can trace.**<br />LLM extraction, rule-based scoring, Supabase-backed workflows. | Rule-based matching and advice regression tests.<br />[Live frontend](https://hirelens-alpha.vercel.app) · [Scoring code](https://github.com/azim-haffar/HireLens/blob/main/backend/app/services/match_scorer.py) |
+| **[ML Training Inspector →](https://github.com/azim-haffar/ml-training-inspector)**<br />`PyTorch` `WebSockets` `React` | **Watch the learning, not the loading bar.**<br />Loss, class accuracy, gradient norms, threshold alerts and manual stop. | API/configuration/anomaly checks; no model-quality benchmark claimed.<br />[Video walkthrough ▶](https://youtu.be/x7-KYXCESMw) · [Training loop](https://github.com/azim-haffar/ml-training-inspector/blob/main/backend/trainer.py) |
 
 <div align="center">
 
@@ -48,7 +49,7 @@ B.Sc. Software Engineering, **OSTİM Technical University** · English-taught ·
 
 English C1 · German B1, Goethe-certified · Native Turkish and Arabic. Based in Mersin, Türkiye.
 
-Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Kafka · Redis · Docker · JUnit · Mockito · Testcontainers · GitHub Actions.
+Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Kafka · Redis · Docker · JUnit · Mockito · Testcontainers · Playwright · GitHub Actions.
 
 </details>
 
@@ -64,3 +65,4 @@ The animation stops after three loops. Its moving event is an illustration, not 
 ---
 
 **Have something worth building?** [Explore the portfolio and get in touch →](https://azimx.dev)
+
