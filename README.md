@@ -4,6 +4,8 @@
 
 **Software Engineering student · Former Backend Intern at Trendyol**
 
+I build backend software and applied AI workflows. My current learning focus is dependable ML systems: practical model validation and evaluation, supported by Python, SQL and reliable data pipelines.
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-See_the_work-0b1220?style=for-the-badge&logo=vercel&logoColor=67dfef)](https://azimx.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let%E2%80%99s_connect-0b1220?style=for-the-badge&logo=linkedin&logoColor=67dfef)](https://www.linkedin.com/in/azim-haffar/)
 [![Email](https://img.shields.io/badge/EMAIL-Get_in_touch-0b1220?style=for-the-badge&logo=gmail&logoColor=67dfef)](mailto:azim.haffar@gmail.com)
@@ -47,7 +49,7 @@
 B.Sc. Software Engineering, **OSTİM Technical University** · English-taught · Expected graduation **August 2027**.<br />
 **42 Prague Piscine** · September–October 2025.
 
-English C1 · German B1, Goethe-certified · Native Turkish and Arabic. Based in Mersin, Türkiye.
+English C1 · German B1 · Native Turkish and Arabic. Based in Mersin, Türkiye.
 
 Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Kafka · Redis · Docker · JUnit · Mockito · Testcontainers · Playwright · GitHub Actions.
 
@@ -65,4 +67,5 @@ The animation stops after three loops. Its moving event is an illustration, not 
 ---
 
 **Have something worth building?** [Explore the portfolio and get in touch →](https://azimx.dev)
+
 
