@@ -1,34 +1,37 @@
-# Hi, I’m Azim Haffar
+# Hi, I'm Azim Haffar
 
-**Software Engineering student · Former Backend Intern at Trendyol · Paid Python/LLM development for Kvote**
+**SWE Student | Ex-Trendyol Intern | Applied AI & Backend**
 
-I build backend software and applied AI workflows. I’m developing a focus on dependable ML systems, with Python, SQL, practical evaluation and reliable data pipelines.
+I build AI applications and the backend systems behind them: Python/LLM workflows, explainable evaluation, and reliable data processing.
 
 [Portfolio](https://www.azimx.dev/) · [LinkedIn](https://www.linkedin.com/in/azim-haffar/)  
-**Seeking paid internships abroad from 17 January 2027 · 4–12 months preferred**
+**Seeking paid 2027 internships · Hamburg first · Available from 17 January**
 
-## Start with the work
+## Selected work
 
-| Project | Engineering question | Inspect |
+| Project | What I built | Explore |
 | --- | --- | --- |
-| **SeatLedger** — backend & data | How do reservations stay within capacity when requests race, holds expire and clients retry? Java/Spring Boot, PostgreSQL, React/TypeScript and Python/SQL analytics. | [Case study](https://www.azimx.dev/projects/seatledger) · Synthetic portfolio demo; source private, backend may sleep, email disabled. |
-| **HireLens** — applied AI & full-stack | How can CV analysis separate extracted facts, deterministic scores and generated advice? Python/FastAPI, React/JavaScript and Supabase. | [Source & setup](https://github.com/azim-haffar/HireLens) · Scores are heuristics; live authentication and provider quality remain unverified. Latest local polishing is not yet verified as published. |
-| **ML Training Inspector** — ML tooling | Can the dashboard explain what a training run actually measured? PyTorch, FastAPI, WebSockets and React. | [CPU demo & code](https://github.com/azim-haffar/ml-training-inspector) · Synthetic data demonstrates tooling; checkpoint loading is checked, resume is absent. |
-| **OrderFlow** — distributed systems | What happens when Kafka stops or an event arrives twice? Java, Spring Boot, Kafka, PostgreSQL and Redis. | [Source & architecture](https://github.com/azim-haffar/OrderFlow) · Local portfolio project; at-least-once delivery, single outbox publisher, no production load claim. |
+| **[HireLens](https://github.com/azim-haffar/HireLens)** | CV-to-job analysis combining LLM extraction with explainable, rule-based matching. **Python · FastAPI · React · Supabase** | [Scoring code](https://github.com/azim-haffar/HireLens/blob/main/backend/app/services/match_scorer.py) · [Tests](https://github.com/azim-haffar/HireLens/tree/main/backend/tests) |
+| **[ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector)** | PyTorch training dashboard with live metrics, WebSocket delivery and checkpoint inspection. **PyTorch · FastAPI · React** | [CPU demo](https://github.com/azim-haffar/ml-training-inspector#quick-reproducible-cpu-demo) · [Engineering notes](https://github.com/azim-haffar/ml-training-inspector/blob/main/ENGINEERING_NOTES.md) |
+| **[OrderFlow](https://github.com/azim-haffar/OrderFlow)** | Event-driven order processing with a transactional outbox, duplicate handling and database locking. **Java · Spring Boot · Kafka · PostgreSQL · Redis** | [Architecture](https://github.com/azim-haffar/OrderFlow/blob/main/docs/architecture.md) · [Failure & recovery](https://github.com/azim-haffar/OrderFlow/blob/main/docs/failure-recovery.md) |
 
-## Experience behind the projects
+**Also built:** [SeatLedger](https://www.azimx.dev/projects/seatledger), a reservation system focused on capacity, concurrent requests and replayable analytics. Synthetic portfolio demo; source private.
 
-- **Trendyol · Backend Engineering Intern · Jun–Sep 2025:** Built and demonstrated a Spring Boot/PostgreSQL Coupon Usage Tracker, wrote unit/integration tests and Docker setup, and contributed API changes and fixes within existing services.
-- **Kvote 2 Hjælperen · Paid freelance development · Feb–Apr 2026:** Delivered a Python/LLM study-question workflow with a separate LLM evaluation step and application-level validation.
+## Experience
+
+- **Trendyol — Backend Engineering Intern · Jun–Sep 2025:** Spring Boot/PostgreSQL Coupon Usage Tracker, API changes, unit/integration tests and Docker setup.
+- **Kvote 2 Hjælperen — Paid freelance development · Feb–Apr 2026:** Python/LLM study-question workflows with a separate LLM evaluation step and application-level validation.
 
 <details>
-<summary>Education, languages and toolkit</summary>
+<summary>Toolkit, education & project scope</summary>
+
+**Backend & data:** Java, Python, SQL, Spring Boot, FastAPI, PostgreSQL, Kafka, Redis, Docker.  
+**AI & interfaces:** LLM APIs, PyTorch, React, JavaScript, TypeScript.  
+**Quality:** JUnit, Testcontainers, Playwright, GitHub Actions.
 
 B.Sc. Software Engineering, **OSTİM Technical University** · Expected August 2027.  
-English C1 · German B1 · Turkish and Arabic native.
+English C1 · German B1 · Turkish and Arabic native. Preferred internship duration: 4–12 months.
 
-Java · Python · SQL · Spring Boot · FastAPI · PostgreSQL · Kafka · Redis · Docker · React · JavaScript · TypeScript · PyTorch · JUnit · Testcontainers · Playwright · GitHub Actions.
+These are portfolio projects with documented limits. HireLens scores are heuristics, not hiring predictions; live authentication and provider quality remain unverified. ML Training Inspector uses a synthetic CPU demo and does not implement training resume. OrderFlow is a local project with at-least-once delivery and one outbox publisher. SeatLedger uses synthetic data, may cold-start slowly and has email disabled. Repositories contain setup instructions and evidence boundaries; no production usage or model-quality claim is implied.
 
 </details>
-
-Evidence and limitations belong beside the work. Project tests and synthetic demonstrations do not establish production operation or real-world model quality.
