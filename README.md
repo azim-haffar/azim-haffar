@@ -7,7 +7,7 @@ I build AI applications and the backend systems behind them: Python/LLM workflow
 [Portfolio](https://www.azimx.dev/) · [LinkedIn](https://www.linkedin.com/in/azim-haffar/)  
 **Seeking paid 2027 internships · Hamburg first · Available from 17 January**
 
-## Selected work
+## Start here — public code
 
 | Project | What I built | Explore |
 | --- | --- | --- |
@@ -15,7 +15,14 @@ I build AI applications and the backend systems behind them: Python/LLM workflow
 | **[ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector)** | PyTorch training dashboard with live metrics, WebSocket delivery and checkpoint inspection. **PyTorch · FastAPI · React** | [CPU demo](https://github.com/azim-haffar/ml-training-inspector#quick-reproducible-cpu-demo) · [Engineering notes](https://github.com/azim-haffar/ml-training-inspector/blob/main/ENGINEERING_NOTES.md) |
 | **[OrderFlow](https://github.com/azim-haffar/OrderFlow)** | Event-driven order processing with a transactional outbox, duplicate handling and database locking. **Java · Spring Boot · Kafka · PostgreSQL · Redis** | [Architecture](https://github.com/azim-haffar/OrderFlow/blob/main/docs/architecture.md) · [Failure & recovery](https://github.com/azim-haffar/OrderFlow/blob/main/docs/failure-recovery.md) |
 
-**Also built:** [SeatLedger](https://www.azimx.dev/projects/seatledger), a reservation system focused on capacity, concurrent requests and replayable analytics. Synthetic portfolio demo; source private.
+## More projects
+
+| Project | Focus | View |
+| --- | --- | --- |
+| **Skina** | Fictional retail advisor: deterministic basket selection with separately gated AI explanations. **React · TypeScript · Node.js** | [Case study & screenshot](https://www.azimx.dev/projects/skina) · Local prototype; mocked shopper explanations; source private. |
+| **MotionTrace** | Research workbench comparing classical and learned target tracking. **Python · Applied ML** | [Research case study](https://www.azimx.dev/projects/motiontrace) · Negative result retained; no clinical validation; research assets withheld. |
+| **SeatLedger** | Capacity-limited reservations, concurrent requests and replayable analytics. **Spring Boot · PostgreSQL · React · TypeScript** | [Case study](https://www.azimx.dev/projects/seatledger) · [Synthetic hosted demo](https://seatledger.azimx.dev/) · Source private; free backend may sleep. |
+| **azimx.dev** | Engineering portfolio with project decisions, visual explanations and evidence boundaries. **Next.js · React · TypeScript** | [Website](https://www.azimx.dev/) · [Source](https://github.com/azim-haffar/azimx.dev) |
 
 ## Experience
 
