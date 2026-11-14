@@ -1,8 +1,13 @@
-# Hi, I'm Azim Haffar
+![Azim Haffar · Backend systems and applied AI](github-header.png)
 
-**SWE Student | Ex-Trendyol Intern | Applied AI & Backend**
+I’m a software engineering student at OSTİM Technical University. At Trendyol I built and demonstrated a Spring Boot coupon tracker and contributed to existing backend services. For Kvote I built a paid Python study tool with separate steps for generating questions, evaluating them against the source material, and validating their structure.
 
-I build AI applications and the backend systems behind them: Python/LLM workflows, explainable evaluation, and reliable data processing.
+### Start with a question
+
+- **What happens when two people book the last seat?** SeatLedger uses PostgreSQL locks and persisted retry outcomes to protect capacity. The public case study covers a synthetic reservation demo and its limits. [Read the SeatLedger case study](https://www.azimx.dev/projects/seatledger).
+- **What happens if an order arrives twice?** Follow the transaction and inspect the Kafka retry and outbox regression tests. [Read the reliability tests](https://github.com/azim-haffar/OrderFlow/blob/550e340416dc5a81c26640009beb225bf2fa89d9/backend/src/test/java/com/orderflow/OrderReliabilityIntegrationTest.java) · [17 tests passed on this revision](https://github.com/azim-haffar/OrderFlow/actions/runs/37155280243).
+- **Where does a CV match score come from?** Inspect the weighted rules for skills, experience, education and keywords. [Explore HireLens](https://github.com/azim-haffar/HireLens/blob/0b663e037a6e1ddfb8df84fe882fe86dc1ee53a2/backend/app/services/match_scorer.py).
+- **What changes during a training epoch?** Follow loss, gradient norms and class accuracy from a PyTorch loop to the dashboard. [Explore ML Training Inspector](https://github.com/azim-haffar/ml-training-inspector).
 
 [Portfolio](https://www.azimx.dev/) · [LinkedIn](https://www.linkedin.com/in/azim-haffar/)  
 **Seeking paid 2027 internships · Hamburg first · Available from 17 January**
